@@ -1,4 +1,4 @@
-#!/usr/bin/env nodejs
+#!/usr/bin/env node
 
 var argv = require('minimist')(process.argv.slice(2));
 var serialPort = argv.hasOwnProperty('port') ? argv.port : '/dev/TTYUSB0';
