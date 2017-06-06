@@ -1,5 +1,5 @@
 {
-  "name": "slimmemeter",
+  "name": "ha-datasource-p1meter",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,7 +12,7 @@
   "bin": "./bin/p1reader.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodejs app.js",
+    "start": "nodejs bin/p1reader.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leon Boot <wlboot@gmail.com>",
