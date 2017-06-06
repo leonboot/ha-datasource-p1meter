@@ -9,6 +9,7 @@
     "node-couchdb": "^1.1.1",
     "p1-reader": "^1.4.1"
   },
+  "bin": "./bin/p1reader.js"
   "devDependencies": {},
   "scripts": {
     "start": "nodejs app.js",
