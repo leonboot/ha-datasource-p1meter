@@ -1,0 +1,18 @@
+{
+  "name": "slimmemeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "graphite": "0.0.7",
+    "node-couchdb": "^1.1.1",
+    "p1-reader": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodejs app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon Boot <wlboot@gmail.com>",
+  "license": "ISC"
+}
