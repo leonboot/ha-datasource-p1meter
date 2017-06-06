@@ -4,9 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "graphite": "0.0.7",
     "minimist": "^1.2.0",
-    "node-couchdb": "^1.1.1",
     "p1-reader": "^1.4.1"
   },
   "bin": "./bin/p1reader.js",
